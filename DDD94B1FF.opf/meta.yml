@@ -1,0 +1,22 @@
+id: DDD94B1FF
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-03-08T06:43:12+00:00'
+last_modified: '2022-05-26T14:22:41.239223+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    '6843':
+      image_group_id: I1PD95885
+      title: འཇིགས་པ་བརྒྱད་ལས་སྐྱོབ་པ།
+      total_pages: 1648
+      order: 40
+      base_file: 6843.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
